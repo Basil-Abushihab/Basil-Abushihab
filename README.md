@@ -7,5 +7,4 @@
 <div align="center">
 <a><img src="/Basil-Abushihab/assets/Linkedin.png"></img></a>
 <a><img src="/Basil-Abushihab/assets/DevLogo.png"></img></a>
-
 </div>
