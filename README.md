@@ -45,9 +45,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Basil-Abushihab&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basil-Abushihab&layout=compact&theme=tokyonight" alt="Top languages" />
 </div>
 
 ---
